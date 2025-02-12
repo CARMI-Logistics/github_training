@@ -1,1 +1,3 @@
-console.log('test');
+let variable='';
+
+console.log(variable);
